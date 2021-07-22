@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-techbase-dev-142448-authRole",
+      "UnauthRoleArn": "arn:aws:iam::147433298599:role/amplify-techbase-dev-142448-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::147433298599:role/amplify-techbase-dev-142448-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-techbase-dev-142448-deployment",
+      "UnauthRoleName": "amplify-techbase-dev-142448-unauthRole",
+      "StackName": "amplify-techbase-dev-142448",
+      "StackId": "arn:aws:cloudformation:us-east-2:147433298599:stack/amplify-techbase-dev-142448/1b4d2610-eb1a-11eb-bb3b-02d473ed4c50",
+      "AmplifyAppId": "dwzb7rpf2ihze"
+    }
+  }
+}
